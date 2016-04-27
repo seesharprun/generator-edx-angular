@@ -15,5 +15,5 @@ Creates a blank, empty Angular 2 project for Visual Studio Code
     ```shell
     npm install
     ```
-    
+
 3. Press F5 in Visual Studio Code to run the server.
