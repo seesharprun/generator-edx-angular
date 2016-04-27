@@ -1,6 +1,6 @@
 {
   "name": "generator-edx-angular",
-  "version": "0.4.0",
+  "version": "0.1.0",
   "description": "Bootstraps an Angular solution for the edX Angular 2 course",
   "author": "Sidney Andrews <sidney@seesharprun.net>",
   "repository": {
@@ -11,8 +11,7 @@
     "url": "https://github.com/seesharprun/generator-edx-angular/issues"
   },
   "files": [
-    "generators/app",
-    "generators/router"
+    "generators/app"
   ],
   "keywords": [
     "yeoman-generator",
@@ -20,7 +19,6 @@
     "angular"
   ],
   "dependencies": {
-    "cli-table": "^0.3.1",
     "jsonschema": "^1.1.0",
     "node-uuid": "^1.4.7",
     "yeoman-generator": "^0.20.2"
