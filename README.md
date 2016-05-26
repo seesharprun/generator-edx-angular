@@ -23,7 +23,7 @@ Based on Angular 2 Release Candidate.
     
     > Creates a new project in Visual Studio Code that is configured to debug using NPM *lite-server* package. ``npm install`` is ran automatically for you.
 
-1. Press F5 in Visual Studio Code to debug the application.
+1. Press ``F5`` in Visual Studio Code to debug the application.
 
 ### Browser-Based Transpile
 
