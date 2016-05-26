@@ -8,7 +8,8 @@ Based on Angular 2 Release Candidate.
 
 ## Install
 
-Install the generator from NPM using:
+* Install the generator from NPM using:
+
     ```shell
     npm install generator-edx-angular
     ```
@@ -26,7 +27,8 @@ Install the generator from NPM using:
 
 ### Browser-Based Transpile
 
-For quick demos, you can generate an Angular project that transpiles your TypeScript files in the browser instead of manually in the IDE:
+* For quick demos, you can generate an Angular project that transpiles your TypeScript files in the browser instead of manually in the IDE:
+
     ```shell
     yo edx-angular --transpile
     ```
