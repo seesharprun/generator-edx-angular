@@ -1,6 +1,6 @@
 {
   "name": "generator-edx-angular",
-  "version": "0.1.1",
+  "version": "0.5.4",
   "description": "Bootstraps an Angular solution for the edX Angular 2 course",
   "author": "Sidney Andrews <sidney@seesharprun.net>",
   "repository": {
